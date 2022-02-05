@@ -9,6 +9,9 @@ https://zauner.nllk.net/post/0033-debian-preseed/
 https://github.com/hoedlmoser/preseed-debian/blob/main/preseed-raid-lvm.cfg
 https://wiki.debian.org/tasksel#A.22standard.22_task
 https://www.debian.org/blends/hamradio/get/metapackages
+https://packages.debian.org/stable/
+https://cockpit-project.org/applications.html
+https://packages.debian.org/stable/qemu-kvm
 
 Ziele
 ---
