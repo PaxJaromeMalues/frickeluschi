@@ -12,6 +12,7 @@ https://www.debian.org/blends/hamradio/get/metapackages
 https://packages.debian.org/stable/
 https://cockpit-project.org/applications.html
 https://packages.debian.org/stable/qemu-kvm
+https://secopsmonkey.com/custom-partioning-using-preseed.html
 
 Ziele
 ---
