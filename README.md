@@ -14,6 +14,8 @@ https://cockpit-project.org/applications.html
 https://packages.debian.org/stable/qemu-kvm
 https://secopsmonkey.com/custom-partioning-using-preseed.html
 
+https://wiki.debian.org/ManipulatingISOs#remaster
+
 Ziele
 ---
 bootable selfinstall usb for cockpit and ganeti equipped ´Debian Bullseye´.
